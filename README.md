@@ -2,7 +2,7 @@
 
 Github:[https://github.com/ittalks/IKAnalyzer2017_6_6_0](https://github.com/ittalks/IKAnalyzer2017_6_6_0)
 
-IKAnalyzer2017_6_6_0.jar:[]()
+IKAnalyzer2017_6_6_0.jar:[https://github.com/ittalks/IKAnalyzer2017_6_6_0/releases/download/v1.0.0/IKAnalyzer2017_6_6_0.jar](https://github.com/ittalks/IKAnalyzer2017_6_6_0/releases/download/v1.0.0/IKAnalyzer2017_6_6_0.jar)
 
 Solr作为搜索应用服务器，我们在使用过程中，不可避免的要使用中文搜索。
 以下介绍solr的**第三方分词器IKAnalyzer**。
